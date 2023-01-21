@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'PixlNFTsDiscoverySDK'
-    s.version           = '1.0.0'
+    s.version           = '1.0.2'
     s.summary           = 'discover nfts from the polygon blockchain anywhere in AR with persistence'
     s.homepage          = 'https://www.pixlapp.xyz'
 
