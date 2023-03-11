@@ -1066,7 +1066,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(location:view:adjustmentScaleFactor:)",
+            "printedName": "init(location:view:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1093,17 +1093,11 @@
                 "name": "UIView",
                 "printedName": "UIKit.UIView",
                 "usr": "c:objc(cs)UIView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Float",
-                "printedName": "Swift.Float",
-                "usr": "s:Sf"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:20PixlNFTsDiscoverySDK22LocationAnnotationNodeC8location4view21adjustmentScaleFactorACSo10CLLocationCSg_So6UIViewCSftcfc",
-            "mangledName": "$s20PixlNFTsDiscoverySDK22LocationAnnotationNodeC8location4view21adjustmentScaleFactorACSo10CLLocationCSg_So6UIViewCSftcfc",
+            "usr": "s:20PixlNFTsDiscoverySDK22LocationAnnotationNodeC8location4viewACSo10CLLocationCSg_So6UIViewCtcfc",
+            "mangledName": "$s20PixlNFTsDiscoverySDK22LocationAnnotationNodeC8location4viewACSo10CLLocationCSg_So6UIViewCtcfc",
             "moduleName": "PixlNFTsDiscoverySDK",
             "declAttributes": [
               "Custom",
@@ -16346,7 +16340,7 @@
     {
       "filePath": "\/Users\/akhiltolani\/Desktop\/apps\/Startups\/NFTs\/PixlNFTsDiscoverySDK\/PixlNFTsDiscoverySDK\/ExternalLibraries\/ARCL\/Sources\/ARKit-CoreLocation\/Nodes\/LocationAnnotationNode.swift",
       "kind": "BooleanLiteral",
-      "offset": 2419,
+      "offset": 2337,
       "length": 5,
       "value": "false"
     },
